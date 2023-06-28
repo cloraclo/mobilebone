@@ -1,0 +1,34 @@
+{
+  "name": "mobilebone",
+  "version": "2.8.1",
+  "description": "Bone main for mobile web APP with a sigle page mode by using HTML5 history API router.",
+  "main": "dist/mobilebone.js",
+  "module": "dist/mobilebone.esm.js",
+  "directories": {
+    "test": "test",
+    "example": "examples",
+    "doc": "docs",
+    "lib": "dist"
+  },
+  "scripts": {
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhangxinxu/mobilebone.git"
+  },
+  "keywords": [
+    "Mobilebone",
+    "mobilebone.js",
+    "javascript",
+    "router"
+  ],
+  "author": "zhangxinxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangxinxu/mobilebone/issues",
+	  "email" : "zhangxinxu@zhangxinxu.com"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
